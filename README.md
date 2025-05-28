@@ -16,3 +16,8 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\\Scripts\\activate
 pip install -r requirements.txt
 jupyter notebook
+```
+## Three Links
+
+https://github.com/ParthiOS/PROG8431_workshop_1
+
