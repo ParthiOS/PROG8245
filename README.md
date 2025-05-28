@@ -18,6 +18,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ## Three Links
+-  https://github.com/ParthiOS/PROG8431_workshop_1
 
-https://github.com/ParthiOS/PROG8431_workshop_1
-https://github.com/ParthiOS/Chess-OOP
+- https://github.com/ParthiOS/Chess-OOP
+- https://github.com/ParthiOS/CSCN8010
